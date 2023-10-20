@@ -1,0 +1,19 @@
+{
+  "name": "lebedynskyi_javascript",
+  "version": "1.0.0",
+  "description": "technical task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skalpel13/Lebedynskyi_JavaScript.git"
+  },
+  "author": "Bohdan Lebedynskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skalpel13/Lebedynskyi_JavaScript/issues"
+  },
+  "homepage": "https://github.com/skalpel13/Lebedynskyi_JavaScript#readme"
+}
